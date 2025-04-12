@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Nwamadi Ikechukwu Michael
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning AWS cloud computing.
+- 🌱 I’m currently learning cloud computing.
 - 💞️ I’m looking to collaborate with other data professionals to work on real world and make data driven decisions.
 - 📫 How to reach me nwamadimike@gmail.com | https://linkedin.com/in/ikechukwu-nwamadi 
 - 🔭 I'm like a detective for data. I gather, transform, and perform in-depth analysis of datasets to extract actionable insights that provide effective solutions to complex business problems.
